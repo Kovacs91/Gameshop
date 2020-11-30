@@ -1,0 +1,62 @@
+*{box-sizing: border-box;}
+#content{
+    margin: auto;
+    width: 60%;
+     
+
+}
+h5,p{
+    color: lawngreen;
+}
+body{
+    margin: 0;
+}
+li{
+    display: inline;  
+}
+ol{
+    text-align: center;
+    word-spacing: 100px;;
+}
+h1{
+    text-align: center;
+}
+.d-block{
+    height: 600px;
+    width:780px;
+    margin: auto;
+    float:right;
+    margin-bottom: 10px;
+}
+#carousel{
+    margin: auto;
+}
+img{
+    display:inline;
+    padding: 2px;
+    padding-left: 3px;
+}
+#jatek{
+    margin: auto;
+    width: 60%;
+}
+#container{
+    background-color: lightseagreen;
+}
+#javit{
+    height:261px;
+    width: 260px;
+}
+.also{
+    padding:10px;
+}
+#nemjava{
+    float:right;
+}
+#kosaracska{
+    float:right;
+}
+h6{
+    width:100px;
+    height:100px;
+}
